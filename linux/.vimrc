@@ -54,7 +54,7 @@
 
 
 "Set colorscheme.  This is a black background colorscheme
-  colorscheme darkblue
+  colorscheme desert
 
 
 "Set variables for plugins to use
